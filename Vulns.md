@@ -1,1 +1,10 @@
-asdd
+* [Allowing Domains or Accounts to Expire](https://owasp.org/www-community/vulnerabilities/Allowing_Domains_or_Accounts_to_Expire)
+* [Buffer Overflow](https://owasp.org/www-community/vulnerabilities/Buffer_Overflow)
+* [Business logic vulnerability](https://owasp.org/www-community/vulnerabilities/Business_logic_vulnerability)
+* [CRLF Injection](https://owasp.org/www-community/vulnerabilities/CRLF_Injection)
+* [CSV Injection](https://owasp.org/www-community/attacks/CSV_Injection)
+* [Catch NullPointerException](https://owasp.org/www-community/vulnerabilities/Catch_NullPointerException)
+* [Covert storage channel](https://owasp.org/www-community/vulnerabilities/Covert_storage_channel)
+* [Deserialization of untrusted data](https://owasp.org/www-community/vulnerabilities/Deserialization_of_untrusted_data)
+* [Directory Restriction Error](https://owasp.org/www-community/vulnerabilities/Directory_Restriction_Error)
+* [Doubly freeing memory](https://owasp.org/www-community/vulnerabilities/Doubly_freeing_memory)
