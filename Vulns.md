@@ -11,7 +11,7 @@
 * [Empty String Password](https://owasp.org/www-community/vulnerabilities/Empty_String_Password)
 * [Expression Language Injection](https://owasp.org/www-community/vulnerabilities/Expression_Language_Injection)
 * [Full Trust CLR Verification issue Exploiting Passing Reference Types by Reference](https://owasp.org/www-community/vulnerabilities/Full_Trust_CLR_Verification_issue_Exploiting_Passing_Reference_Types_by_Reference)
-* [Heartbleed Bug](Heartbleed Bug)
+* [Heartbleed Bug](https://owasp.org/www-community/vulnerabilities/Heartbleed_Bug)
 * [Improper Data Validation](https://owasp.org/www-community/vulnerabilities/Improper_Data_Validation)
 * [Improper pointer subtraction](https://owasp.org/www-community/vulnerabilities/Improper_pointer_subtraction)
 * [Information exposure through query strings in url](https://owasp.org/www-community/vulnerabilities/Information_exposure_through_query_strings_in_url)
